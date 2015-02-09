@@ -1,0 +1,9 @@
+StringFlav:mesonSvector 0.0 3.0 # 0.725
+StringFlav:mesonCvector 0.0 3.0 # 1.06
+StringFlav:mesonUDvector 0.0 3.0 # default 0.62
+StringFlav:probStoUD 0.0 1.0 # default 0.19
+StringFlav:probQQtoQ 0.0 1.0 # default 0.09
+StringFlav:etaSup 0.0 1.0 # default 0.63
+# StringFlav:etaPrimeSup 0.0 1.0 # default 0.12
+# StringZ:rFactC 0.0 2.0 #default=1.0 min=0.0 max=2.0
+# StringZ:rFactB 0.0 2.0 #default=0.67 min=0.0 max=2.0

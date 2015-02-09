@@ -1,0 +1,3 @@
+#MC-TESTER version 1.25.0 Mon Aug 18 17:41:10 CEST 2014
+export MCTESTERLOCATION=/users/eeh/micgro42/BMC/MC-TESTER
+export LD_LIBRARY_PATH=/users/eeh/micgro42/BMC/MC-TESTER/lib:$LD_LIBRARY_PATH
